@@ -1,5 +1,6 @@
 {
     "name": "aleksip/styleguidekit-tpl-default",
+    "description": ".tpl.php templates for the default StyleguideKit",
     "type": "patternlab-styleguidekit",
     "license": "GPL-2.0-or-later",
     "authors": [
