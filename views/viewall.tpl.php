@@ -5,7 +5,7 @@
     <?php foreach ($partials as $partial) : ?>
       <?php if (isset($partial['patternSectionSubtype']) && $partial['patternSectionSubtype']): ?>
         <?php include 'patternSectionSubtype.tpl.php' ?>
-      <? else: ?>
+      <?php else: ?>
         <?php include 'patternSection.tpl.php' ?>
       <?php endif; ?>
     <?php endforeach; ?>
